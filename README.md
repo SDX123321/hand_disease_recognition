@@ -8,6 +8,6 @@ Quick start
 4. 编辑config.py\
 将`VIDEO_PATH`值更改为拍摄视频的路径名\
 5. 填写DEEPSEEK_API\
-将`ds.py`中的`api_key`写为自己的api密钥（在https://platform.deepseek.com/usage)处申请\
+将`ds.py`中的`api_key`写为自己的api密钥,请在`https://platform.deepseek.com/usage`处申请\
 6. 运行本项目\
 执行`python main.py`以完整运行本项目\
