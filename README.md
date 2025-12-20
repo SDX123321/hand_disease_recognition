@@ -1,5 +1,5 @@
 # hand_disease_recognition
-Quick start
+Quick start\
 1.克隆本仓库\
 ` git clone https://github.com/SDX123321/hand_disease_recognition.git`\
 2. 安装对应依赖\
